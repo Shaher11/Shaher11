@@ -8,6 +8,7 @@ I am a software engineer with extensive experience in web development I’m work
 
 *   🌍  I'm based in Jeddah, Saudi Arabia
 *   🖥️  See my portfolio at [MyResume](http://drive.google.com/file/d/11MF41PG4FNcb_H7goXuJi_NvRs8rqRPU/view?usp=sharing)
+*   🚀  I'm an AWS Certified Developer - [Badge](http://www.credly.com/badges/1b986d2d-3d7f-451c-baee-ca8a6eac9368/public_url)
 *   ✉️  You can contact me at [moservices11@gmail.com](mailto:moservices11@gmail.com)
 *   🧠  I'm learning Serverless Technologies
 
