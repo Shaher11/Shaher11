@@ -9,7 +9,10 @@ I am a software engineer with extensive experience in web development I’m work
 *   🌍  I'm based in Jeddah, Saudi Arabia
 *   🖥️  See my portfolio at [MyResume](http://drive.google.com/file/d/11MF41PG4FNcb_H7goXuJi_NvRs8rqRPU/view?usp=sharing)
 *   ✉️  You can contact me at [moservices11@gmail.com](mailto:moservices11@gmail.com)
-*   🧠  I'm learning Serverless Technologies### Skills 
+*   🧠  I'm learning Serverless Technologies
+
+### Skills 
+
 <p align="left">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
