@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer | AWS Certified Developer
 -------------------------------------------
 
-I am a software engineer with extensive experience in web development I’m working with Laravel framework, and I have gained good knowledge from the experiences I have undergone during the last period. I also possess many skills that help to accomplish tasks such as problem-solving, team management, decision-making, and negotiation skill.
+  I am a software engineer with extensive experience in web development I’m working with Laravel framework, and I have gained good knowledge from the experiences I have undergone during the last period. I also possess many skills that help to accomplish tasks such as problem-solving, team management, decision-making, and negotiation skill.
 
 *   🌍  I'm based in Jeddah, Saudi Arabia
 *   🖥️  See my portfolio at [MyResume](http://drive.google.com/file/d/11MF41PG4FNcb_H7goXuJi_NvRs8rqRPU/view?usp=sharing)
-*   🚀  I'm an AWS Certified Developer - [Badge](http://www.credly.com/badges/1b986d2d-3d7f-451c-baee-ca8a6eac9368/public_url)
+*   🚀  I'm an AWS Certified Developer - [My Badge](http://www.credly.com/badges/1b986d2d-3d7f-451c-baee-ca8a6eac9368/public_url)
 *   ✉️  You can contact me at [moservices11@gmail.com](mailto:moservices11@gmail.com)
 *   🧠  I'm learning Serverless Technologies
 
